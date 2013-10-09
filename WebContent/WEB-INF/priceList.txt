@@ -1,0 +1,4 @@
+name~yearprice
+.com~10
+.net~9
+.com.au~20
