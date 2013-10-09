@@ -19,8 +19,8 @@
 <div class="dataarea">
 	<table id="datatable">
 		<tr>
-			<td>domain URL</td>
-			<td>Loan Years</td>
+			<td>domain URL </td>
+			<td>Loan Years </td>
 		</tr>
 		<tr id="datarow">
 			<td><input type="text" name="domain" class="domainInput"/></td>
